@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Documents/PlatformIO/Projects/DHT11_sensor"
+		},
+		{
+			"name": "LED_blink",
+			"path": "ESP_FULL/LED_blink"
+		}
+	],
+	"settings": {}
+}
