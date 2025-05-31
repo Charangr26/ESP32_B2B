@@ -1,5 +1,5 @@
 #include<Arduino.h>
-#define LED_PIN 25             // Use a real GPIO pin (PWM-capable)
+#define LED_PIN 17             // Use a real GPIO pin (PWM-capable)
 #define POTENTIOMETER_PIN 34   // Use ADC-capable GPIO
 
 void setup() {
